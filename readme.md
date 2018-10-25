@@ -23,11 +23,19 @@ Adding new friend
 ```
 
 Adding new friend with postdated meeting date
-
+```
+TODO
+```
 
 Adding new friend with note
-Adding new friend with note and postdated meeting date
+```
+TODO
+```
 
+Adding new friend with note and postdated meeting date
+```
+TODO
+```
 
 Lookup friend name
 ```
@@ -38,4 +46,10 @@ Note: This is the note.
 ```
 
 Lookup date
+```
+TODO
+```
 Lookup date range
+```
+TODO
+```
