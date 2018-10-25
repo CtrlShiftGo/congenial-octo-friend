@@ -53,3 +53,9 @@ Lookup date range
 ```
 TODO
 ```
+
+## Storage Format
+Friend logging is stored in a a simple CSV file.
+| name | date | notes | date added |
+|---|---|-|-|
+| Hatsune Miku | 2018-08-01 | vocaloid; friends with Kagamine Rin | 2018-10-25 |
