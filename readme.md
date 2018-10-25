@@ -1,3 +1,6 @@
+# Congenial Octo Friend
+A simple logging program written in Haskell for the purpose of preparing for my comparative programming midterm and also to help me remember when and where I met my friends.
+
 ## Options
 * Add `--add`
     * Alias: `-a`
@@ -15,7 +18,7 @@
 ## Example Behaviour
 Adding new friend
 ```
-py friend.py --add 'friend name'
+./friend --add 'friend name'
 'friend name' has been added on 2018-10-22
 ```
 
@@ -24,9 +27,11 @@ Adding new friend with postdated meeting date
 
 Adding new friend with note
 Adding new friend with note and postdated meeting date
+
+
 Lookup friend name
 ```
-py friend.py 'friend name'
+./friend 'friend name'
 'friend name'
 First met on: 2018-10-22
 Note: This is the note.
