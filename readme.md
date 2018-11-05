@@ -1,5 +1,5 @@
 # Congenial Octo Friend
-A simple logging program written in Haskell for the purpose of preparing for my comparative programming midterm and also to help me remember when and where I met my friends.
+A simple logging program written in Rust for the purpose of learning a little about the language and also to help me remember when and where I met my friends.
 
 ## Options
 * Add `--add`
