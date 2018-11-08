@@ -1,0 +1,6 @@
+[package]
+name = "congenial-octo-friend"
+version = "0.1.0"
+authors = ["Josh Wu <joshwu@me.com>"]
+
+[dependencies]
